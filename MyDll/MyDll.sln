@@ -5,6 +5,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyDll", "MyDll\MyDll.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyDllTest", "MyDllTest\MyDllTest.vcxproj", "{39F1C81A-A0BF-4248-B6B5-966FF9FC84FB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "callway", "..\Call\callway\callway.vcxproj", "{EE2F828E-3B9D-47EF-9E89-CF21CF2AB8C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -19,6 +21,10 @@ Global
 		{39F1C81A-A0BF-4248-B6B5-966FF9FC84FB}.Debug|Win32.Build.0 = Debug|Win32
 		{39F1C81A-A0BF-4248-B6B5-966FF9FC84FB}.Release|Win32.ActiveCfg = Release|Win32
 		{39F1C81A-A0BF-4248-B6B5-966FF9FC84FB}.Release|Win32.Build.0 = Release|Win32
+		{EE2F828E-3B9D-47EF-9E89-CF21CF2AB8C2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EE2F828E-3B9D-47EF-9E89-CF21CF2AB8C2}.Debug|Win32.Build.0 = Debug|Win32
+		{EE2F828E-3B9D-47EF-9E89-CF21CF2AB8C2}.Release|Win32.ActiveCfg = Release|Win32
+		{EE2F828E-3B9D-47EF-9E89-CF21CF2AB8C2}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
